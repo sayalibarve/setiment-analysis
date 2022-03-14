@@ -2,7 +2,9 @@
 #### In this repository, a LSTM model is trained with a labelled dataset.
 #### Labels - Good and bad translated to 1 and 0 respectively for training purposes.
 
-###<span style="color:blue">Results on test data -</span> 
+```diff
+- Results on test data:
+```
 #### Test loss: 0.699
 #### Test accuracy: 0.693
 
